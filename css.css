@@ -1,0 +1,16 @@
+body{
+    background:linear-gradient(30deg, crimson,sienna, royalblue, indianred, purple);
+}
+.text{
+    color: blue;
+} 
+#box{
+  background:linear-gradient(30deg, black 10%, orangered 75%, yellow);
+  float: left;
+} 
+#texttab{
+    color: green;
+}
+.desaparecido{
+	display: none;
+}
